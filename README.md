@@ -23,7 +23,7 @@ A regression analysis project that models and predicts taxi fares from trip-rela
 ### 1.1 Scatter Plot
 `Fare_USD` vs `Trip_Distance_km` was plotted to visually inspect the relationship between the two variables.
 
-![Scatter plot of Fare vs Trip Distance](./media/scatter_fare_vs_distance.png)
+![Fare vs Trip Distance](./scatter_fare_vs_distance.png)
 
 ### 1.2 Correlation Coefficient (Manual Calculation)
 
