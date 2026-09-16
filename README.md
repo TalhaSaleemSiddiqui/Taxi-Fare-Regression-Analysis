@@ -70,7 +70,7 @@ The full analysis is implemented in [`Multi_linear_Regression_Code.R`](./Multi_l
 
 Four scatter plots (`Fare_USD` vs `Trip_Distance_km`, `Waiting_Time_min`, `Night_Ride`, `Passenger_Count`) were generated in a single 2×2 panel to visually inspect each predictor's relationship with fare.
 
-![Scatter plots of Fare vs each predictor](./media/scatter_fare_vs_predictors.png)
+![Fare vs each predictor](./scatter_fare_vs_predictors.png)
 
 ### 2.3 Correlation Analysis
 
@@ -188,8 +188,8 @@ This achieves a near-perfect fit (Adjusted R² = 99.49%), and every coefficient 
 |---|---|
 | `Multi_linear_Regression_Code.R` | R script: builds the dataset, generates scatter plots, computes correlations, fits the MLR model, and produces the predicted vs. actual fare comparison table |
 | `README.md` | This document — full write-up of the SLR and MLR analyses |
-| `media/scatter_fare_vs_distance.png` | SLR scatter plot: Fare vs Trip Distance |
-| `media/scatter_fare_vs_predictors.png` | MLR scatter plot panel: Fare vs each of the four predictors |
+| `scatter_fare_vs_distance.png` | SLR scatter plot: Fare vs Trip Distance |
+| `scatter_fare_vs_predictors.png` | MLR scatter plot panel: Fare vs each of the four predictors |
 
 ## Requirements
 
